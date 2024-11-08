@@ -1,19 +1,22 @@
-# --demo--
+# --Demo--
 
-hello😎
-can you take
-apple🍎
-banana🍌
-cherry🍒
-grape🍇
-dolFin🐬
-drink🍸
-water🥤
-coffee☕️
-iceCream🍹
-juice🧃
-Milk🥛
-or any thing
-This is my first git repository
-<br>
-Author --MisBah--
+Hello 😎
+
+You can take:
+
+- Apple 🍎
+- Banana 🍌
+- Cherry 🍒
+- Grape 🍇
+- Dolphin 🐬
+- Drink 🍸
+- Water 🥤
+- Coffee ☕️
+- Ice Cream 🍹
+- Juice 🧃
+- Milk 🥛
+- Or anything else.
+
+This is my first Git repository.
+
+**Author:** Misbah
